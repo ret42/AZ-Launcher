@@ -1,2 +1,6 @@
 # AZ-Launcher
-Oui
+Lag
+Aimassist
+Autoclick
+Scoreboard
+Misc
